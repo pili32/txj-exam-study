@@ -1,0 +1,54 @@
+.main-container {
+  height: 100%;
+  padding: 0 5px 0 0 ;
+  box-sizing: border-box;
+}
+.container-btn {
+  width: 100%;
+  text-align: right;
+  padding: 3px 0;
+  box-sizing: border-box;
+}
+.latout-box {
+  display: flex;
+  flex-direction: row;
+
+}
+p{
+  padding: 0;
+  margin: 0;
+}
+span{
+  padding: 0;
+  margin: 0;
+}
+.tree-box {
+  width: 15%;
+  background: #fff;
+  height: 100%;
+  margin-right: 3px;
+  padding: 3px;
+  box-sizing: border-box;
+  border-radius: 5px;
+
+}
+.title {
+  font-size: 12px;
+}
+.table-box {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  flex-basis: auto;
+  flex-direction: row;
+  min-width: 0;
+  background: #fff;
+  border-radius: 5px;
+}
+.el-dialog__header {
+  text-align: center;
+}
+.dialog-tips {
+  font-size: 12px;
+  padding: 5px;
+}
